@@ -1,0 +1,23 @@
+@relation calc
+
+@attribute calculate {sum, minus, multiply}
+@attribute numbers numeric
+@attribute lenght numeric
+@attribute isMoreThanTen {TRUE, FALSE}
+@attribute play {yes, no}
+
+@data
+sum,85,85,TRUE,yes
+sum,80,90,FALSE,no
+minus,83,86,TRUE,yes
+multiply,70,96,TRUE,yes
+multiply,68,80,TRUE,yes
+multiply,65,70,TRUE,yes
+minus,64,65,TRUE,yes
+sum,72,95,TRUE,yes
+sum,69,70,TRUE,yes
+multiply,75,80,TRUE,yes
+sum,75,70,FALSE,no
+minus,72,90,TRUE,yes
+minus,81,75,TRUE,yes
+multiply,71,91,TRUE,yes

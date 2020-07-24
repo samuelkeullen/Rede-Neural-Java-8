@@ -1,0 +1,13 @@
+@relation teste
+
+@attribute bleh {legal, bacana, bonito}
+@attribute um numeric
+@attribute dois numeric
+@attribute ehmermo {TRUE,FALSE}
+@attribute start {yes, no}
+
+@data
+legal,85,85,TRUE,no
+legal,75,70,FALSE,yes
+bacana,20,40,TRUE,no
+bonito,15,15,FALSE,no
