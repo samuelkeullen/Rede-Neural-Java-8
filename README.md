@@ -1,2 +1,2 @@
 # Mirai-A.I
-Minha Inteligência artificial em Java 8.
+Minha rede neural em Java 8.
